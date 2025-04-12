@@ -8,9 +8,9 @@ I'm a Frontend Web Developer, Writer, Language, and Culture Lover who studied Co
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm an Alumni of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently learning NextJS.
-- 😊 I’m open to open-source projects, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
+- 🌱 I’m currently navigating adulthood.
+- 😊 I’m open to open-source projects, mid-level opportunities.
+- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intermediate or Mid level).
 - 📫 You can contact me by emailing mailtoaminattobiahmed@gmail.com.
 
 ---
